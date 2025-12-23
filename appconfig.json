@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.1",
-  "update_url": "https://bhumeter.com/downloads/bhu-meter.apk",
+  "update_url": "https://bhumeter.com",
   "slowdown_start_day": 5,
   "force_update_after_days": 8,
   "message_en": "New update available! Please update the app.",
