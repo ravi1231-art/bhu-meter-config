@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "last_updated": "2025-12-31",
   "data": [
     {
@@ -10,6 +10,15 @@
       ],
       "answer": "Registry ke samay Amin jamin ki naap-jokh karta hai,",
       "updated_at": "2025-12-31T16:54:11.216757"
+    },
+    {
+      "id": "q_2",
+      "variants": [
+        "registry ke time Amin ka kya kaam hota",
+        "land map verify karta hai aur registry ke liye"
+      ],
+      "answer": "Registry ke samay Amin jamin ki naap-jokh karta hai,",
+      "updated_at": "2025-12-31T16:58:35.666875"
     }
   ]
 }
