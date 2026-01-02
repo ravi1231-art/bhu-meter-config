@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "last_updated": "2026-01-02",
+  "topics": [
+    {
+      "id": "kattha-dhur-bihar",
+      "title": "Kattha aur Dhur (Bihar)",
+      "keywords": ["kattha", "dhur", "bihar land unit"],
+      "content": {
+        "overview": "Bihar me zameen naap ke liye Kattha aur Dhur ka istemal hota hai. 1 Kattha = 20 Dhur hota hai. Ye system khas kar rural Bihar me revenue record aur registry ke liye use hota hai.",
+        "step_by_step": [
+          "Sabse pehle zameen ki lambai aur chaudai naap li jaati hai",
+          "Total area square feet ya meter me nikala jaata hai",
+          "Uske baad usse Kattha aur Dhur me convert kiya jaata hai"
+        ],
+        "common_mistakes": [
+          "Dusre rajya ka land unit Bihar par apply kar dena",
+          "Registry aur revenue record me unit mismatch"
+        ],
+        "legal_notes": "Registry aur mutation ke time Circle Office ke record ke hisab se unit maana jaata hai.",
+        "practical_tips": "Naapi ke waqt hamesha Amin ya Revenue Karamchari ko involve karein."
+      },
+      "demand": 0,
+      "created_at": "2026-01-02T00:00:00Z"
+    },
+    {
+      "id": "batwara-zameen",
+      "title": "Zameen ka Batwara (Partition)",
+      "keywords": ["batwara", "partition", "zameen"],
+      "content": {
+        "overview": "Zameen ka batwara tab hota hai jab joint khata ya sanyukt zameen ko alag-alag hisson me baanta jaata hai. Bihar me batwara Revenue Rules ke tahat hota hai.",
+        "step_by_step": [
+          "Sabhi hissedaron ki sahmati lena",
+          "Batwara ke liye Circle Office me application dena",
+          "Amin dwara naapi aur batwara naksha banana",
+          "Final approval aur record update"
+        ],
+        "common_mistakes": [
+          "Sabhi hissedaron ko notice na dena",
+          "Sirf muh-zabani batwara kar lena"
+        ],
+        "legal_notes": "Vivadh hone par Civil Court ka decision maany hota hai.",
+        "practical_tips": "Likhat batwara hamesha registry ya court order se karein."
+      },
+      "demand": 0,
+      "created_at": "2026-01-02T00:00:00Z"
+    }
+  ]
+}
