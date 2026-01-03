@@ -22,28 +22,6 @@
       },
       "demand": 0,
       "created_at": "2026-01-02T00:00:00Z"
-    },
-    {
-      "id": "batwara-zameen",
-      "title": "Zameen ka Batwara (Partition)",
-      "keywords": ["batwara", "partition", "zameen"],
-      "content": {
-        "overview": "Zameen ka batwara tab hota hai jab joint khata ya sanyukt zameen ko alag-alag hisson me baanta jaata hai. Bihar me batwara Revenue Rules ke tahat hota hai.",
-        "step_by_step": [
-          "Sabhi hissedaron ki sahmati lena",
-          "Batwara ke liye Circle Office me application dena",
-          "Amin dwara naapi aur batwara naksha banana",
-          "Final approval aur record update"
-        ],
-        "common_mistakes": [
-          "Sabhi hissedaron ko notice na dena",
-          "Sirf muh-zabani batwara kar lena"
-        ],
-        "legal_notes": "Vivadh hone par Civil Court ka decision maany hota hai.",
-        "practical_tips": "Likhat batwara hamesha registry ya court order se karein."
-      },
-      "demand": 0,
-      "created_at": "2026-01-02T00:00:00Z"
     }
   ]
 }
