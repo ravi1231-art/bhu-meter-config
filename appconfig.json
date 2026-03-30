@@ -3,8 +3,8 @@
   "update_url": "https://play.google.com/store/apps/details?id=com.bhumeter.areacalculator",
   "slowdown_start_day": 5,
   "force_update_after_days": 8,
-  "message_en": "New update available! Batwara AutoCad , Map Measurement , All States Unit Conversion & Virtual Amin are available. Please update the app.",
-  "message_hi": "नया अपडेट उपलब्ध है! बटवारा औटोकेड , नक्शा मापन , सभी राज्य के इकाई परिवर्तन और वर्चुअल अमीन आ गए है | कृपया ऐप अपडेट करें।",
+  "message_en": "🔥 Big upgrade is here! New Map Measurement + Batwara AutoCAD + Smart Calculator. Your land calculation just got 10x easier. Update now and try it!",
+  "message_hi": "🔥 बड़ा अपडेट आ गया है! अब Map Measurement, Batwara AutoCAD, और Smart Calculator एक साथ। जमीन नापना अब पहले से 10 गुना आसान। अभी अपडेट करें और खुद देखें!",
 
   "backend": {
     "base_url": "https://bhu-meter-backend-production.up.railway.app"
