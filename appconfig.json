@@ -3,8 +3,8 @@
   "update_url": "https://play.google.com/store/apps/details?id=com.bhumeter.areacalculator",
   "slowdown_start_day": 5,
   "force_update_after_days": 8,
-  "message_en": "🔥 Big upgrade is here! New Map Measurement + Batwara AutoCAD + Smart Calculator. Your land calculation just got 10x easier. Update now and try it!",
-  "message_hi": "🔥 बड़ा अपडेट आ गया है! अब Map Measurement, Batwara AutoCAD, और Smart Calculator एक साथ। जमीन नापना अब पहले से 10 गुना आसान। अभी अपडेट करें और खुद देखें!",
+  "message_en": "🔥 Big Update is Here!\n\n🗺️ New Layer System for advanced map measurement\n👤 Profile system added for better experience\n⚡ Faster performance with Work Manager\n🐛 Bugs fixed & stability improved\n\n👉 Update now to unlock smarter land measurement!",
+  "message_hi": "🔥 बड़ा अपडेट आ गया है!\n\n🗺️ Map Measurement में नया Layer System\n👤 Profile system add किया गया\n⚡ App अब पहले से ज्यादा fast (Work Manager)\n🐛 Bugs fix और performance improved\n\n👉 अभी अपडेट करें और बेहतर experience पाएं!",
 
   "backend": {
     "base_url": "https://bhu-meter-backend-production.up.railway.app"
