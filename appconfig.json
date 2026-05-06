@@ -7,6 +7,6 @@
   "message_hi": "🔥 बड़ा अपडेट आ गया है!\n\n🗺️ Map Measurement में नया Layer System\n👤 Profile system add किया गया\n⚡ App अब पहले से ज्यादा fast (Work Manager)\n🐛 Bugs fix और performance improved\n\n👉 अभी अपडेट करें और बेहतर experience पाएं!",
 
   "backend": {
-    "base_url": "https://bhu-meter-backend-production.up.railway.app"
+    "base_url": "https://api.bhumeter.com"
   }
 }
