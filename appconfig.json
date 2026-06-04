@@ -3,8 +3,8 @@
   "update_url": "https://play.google.com/store/apps/details?id=com.bhumeter.areacalculator",
   "slowdown_start_day": 5,
   "force_update_after_days": 8,
-  "message_en": "🔥 New Bhu Meter Update is Live!\n\n📁 My Documents added to save and manage your important files\n🗺️ Map Overlay added for better map comparison\n🎯 Chadar Milan added for easy map sheet matching\n🖼️ Image to PDF improved for smoother PDF creation\n📐 Map Measurement and Batwara experience improved\n🔐 Premium limits added for selected advanced features\n⚡ Faster performance, better UI and bug fixes\n\n👉 Update now and enjoy the new Bhu Meter experience!",
-  "message_hi": "🔥 Bhu Meter का नया अपडेट लाइव हो गया है!\n\n📁 My Documents जोड़ा गया, अब जरूरी फाइलें सेव और मैनेज करें\n🗺️ Map Overlay जोड़ा गया, मैप तुलना अब और आसान\n🎯 Chadar Milan जोड़ा गया, चादर मिलान अब आसान\n🖼️ Image to PDF फीचर और बेहतर बनाया गया\n📐 Map Measurement और Batwara experience improved\n🔐 Advanced features के लिए premium limits जोड़ी गई\n⚡ बेहतर UI, तेज performance और bugs fix\n\n👉 अभी अपडेट करें और नया Bhu Meter experience पाएं!",
+  "message_en": "🔥 New Bhu Meter Update is Live!\n\n📁 My Documents\n🗺️ Map Overlay & Chadar Milan\n🖼️ Image to PDF improved\n📐 Better Map Measurement & Batwara\n⚡ Faster performance and bug fixes\n\n👉 Update now!",
+  "message_hi": "🔥 Bhu Meter का नया अपडेट लाइव है!\n\n📁 My Documents\n🗺️ Map Overlay और Chadar Milan\n🖼️ Image to PDF बेहतर हुआ\n📐 Map Measurement और Batwara improved\n⚡ Fast performance और bug fixes\n\n👉 अभी अपडेट करें!",
 
   "backend": {
     "base_url": "https://api.bhumeter.com"
