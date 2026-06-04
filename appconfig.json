@@ -4,7 +4,7 @@
   "slowdown_start_day": 5,
   "force_update_after_days": 8,
   "message_en": "🔥 New Bhu Meter Update is Live!\n\n📁 My Documents\n🗺️ Map Overlay & Chadar Milan\n🖼️ Image to PDF improved\n📐 Better Map Measurement & Batwara\n⚡ Faster performance and bug fixes\n\n👉 Update now!",
-  "message_hi": "🔥 Bhu Meter का नया अपडेट लाइव है!\n\n📁 My Documents\n🗺️ Map Overlay और Chadar Milan\n🖼️ Image to PDF बेहतर हुआ\n📐 Map Measurement और Batwara improved\n⚡ Fast performance और bug fixes\n\n👉 अभी अपडेट करें!"
+  "message_hi": "🔥 Bhu Meter का नया अपडेट लाइव है!\n\n📁 My Documents\n🗺️ Map Overlay और Chadar Milan\n🖼️ Image to PDF बेहतर हुआ\n📐 Map Measurement और Batwara improved\n⚡ Fast performance और bug fixes\n\n👉 अभी अपडेट करें!",
 
   "backend": {
     "base_url": "https://api.bhumeter.com"
