@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.2.1",
+  "latest_version": "1.2.2",
   "update_url": "https://play.google.com/store/apps/details?id=com.bhumeter.areacalculator",
   "slowdown_start_day": 5,
   "force_update_after_days": 8,
-  "message_en": "🔥 New Bhu Meter Update is Live!\n\n📁 My Documents\n🗺️ Map Overlay & Chadar Milan\n🖼️ Image to PDF improved\n📐 Better Map Measurement & Batwara\n⚡ Faster performance and bug fixes\n\n👉 Update now!",
-  "message_hi": "🔥 Bhu Meter का नया अपडेट लाइव है!\n\n📁 My Documents\n🗺️ Map Overlay और Chadar Milan\n🖼️ Image to PDF बेहतर हुआ\n📐 Map Measurement और Batwara improved\n⚡ Fast performance और bug fixes\n\n👉 अभी अपडेट करें!",
+  "message_en": "🚀 New Desktop Update Available!\n\n✨ Batwara AutoCAD is now more advanced and flexible\n📐 Better support for all types of land division / Batwara\n🗺️ Map Measurement now includes Merge Mode, Distance Mode and Plot Color\n🆘 Help & Support system added\n🛰️ Satellite Map Measure preparation is in progress\n⚡ Performance is smoother than before\n🐞 Bugs fixed and stability improved\n\nUpdate now for a better Bhu Meter Desktop experience.",
+  "message_hi": "🚀 नया Desktop Update उपलब्ध है!\n\n✨ Batwara AutoCAD अब और भी advanced और flexible\n📐 हर प्रकार के land division / Batwara के लिए बेहतर support\n🗺️ Map Measurement में Merge Mode, Distance Mode और Plot Color जोड़ा गया\n🆘 Help & Support system added\n🛰️ Satellite Map Measure feature की तैयारी जारी\n⚡ Performance पहले से ज्यादा smooth किया गया\n🐞 Bugs fix और stability improvements\n\nबेहतर Bhu Meter Desktop experience के लिए अभी update करें।",
 
   "backend": {
     "base_url": "https://api.bhumeter.com"
