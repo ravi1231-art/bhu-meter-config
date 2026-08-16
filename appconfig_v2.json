@@ -1,0 +1,11 @@
+{
+  "latest_version": "1.2.4",
+  "update_url": "https://play.google.com/store/apps/details?id=com.bhumeter.areacalculator",
+  "slowdown_start_day": 10,
+  "force_update_after_days": 15,
+  "message_en": "🚀 Bhu Meter Mega Update\n\n👆 1-Click Auto Plot Measurement\n🔎 Plot Number Search\n📄 Professional Map Trace Report\n📁 New .bhumap Project File\n☁️ Online + Offline Project Backup\n🛰️ Satellite Map Measure: Plot Location Track, Point Lat-Long, Map Overlay & many more tools\n🗺️ Map Measure: Multiple Overlay/Map Sheets in one project + separate scale for each\n🤝 Bhu Meter Partner Program\n⚡ Faster, smarter & more professional experience",
+  "message_hi": "🚀 Bhu Meter Mega Update\n\n👆 1-Click Auto Plot Measurement\n🔎 Plot Number Search\n📄 Professional Map Trace Report\n📁 नया .bhumap Project File\n☁️ Online + Offline Project Backup\n🛰️ Satellite Map Measure: Plot Location Track, Point Lat-Long, Map Overlay और कई नए tools\n🗺️ Map Measure: एक project में Multiple Overlay/Map Sheets + हर map के लिए अलग scale\n🤝 Bhu Meter Partner Program\n⚡ अब और भी Faster, Smarter और More Professional Experience",
+  "backend": {
+    "base_url": "https://api.bhumeter.com"
+  }
+}
