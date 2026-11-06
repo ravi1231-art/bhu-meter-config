@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.2.3",
+  "latest_version": "1.2.5",
   "update_url": "https://play.google.com/store/apps/details?id=com.bhumeter.areacalculator",
   "slowdown_start_day": 10,
   "force_update_after_days": 15,
-  "message_en": "🚀 Bhu Meter Mega Update\n\n👆 1-Click Auto Plot Measurement\n🔎 Plot Number Search\n📄 Professional Map Trace Report\n📁 New .bhumap Project File\n☁️ Online + Offline Project Backup\n🛰️ Satellite Map Measure: Plot Location Track, Point Lat-Long, Map Overlay & many more tools\n🗺️ Map Measure: Multiple Overlay/Map Sheets in one project + separate scale for each\n🤝 Bhu Meter Partner Program\n⚡ Faster, smarter & more professional experience",
-  "message_hi": "🚀 Bhu Meter Mega Update\n\n👆 1-Click Auto Plot Measurement\n🔎 Plot Number Search\n📄 Professional Map Trace Report\n📁 नया .bhumap Project File\n☁️ Online + Offline Project Backup\n🛰️ Satellite Map Measure: Plot Location Track, Point Lat-Long, Map Overlay और कई नए tools\n🗺️ Map Measure: एक project में Multiple Overlay/Map Sheets + हर map के लिए अलग scale\n🤝 Bhu Meter Partner Program\n⚡ अब और भी Faster, Smarter और More Professional Experience",
+  "message_en": "🚀 Bhu Meter 1.2.5 – Diwali Mega Update!\n\n📝 NEW Custom Report Studio: Create professional reports and export PDF, BhuMap, DXF & images.\n📐 Smart Auto Scale for DWG & BhuMap.\n🎨 Advanced Map Customization & Magic Edit to remove unwanted boundary points.\n📏 Custom Units, Sub-units & Unit Calculator.\n📍 Live Location & Accuracy Circle in Satellite Map Measure.\n🗺️ Two-Finger Overlay Rotation.\n📂 Open maps from WhatsApp & File Manager.\n✨ Premium improvements & bug fixes!",
+  "message_hi": "🚀 Bhu Meter 1.2.5 – दिवाली मेगा अपडेट!\n\n📝 नया Custom Report Studio: प्रोफेशनल रिपोर्ट बनाएँ; PDF, BhuMap, DXF और Image में सेव करें।\n📐 DWG और BhuMap में Smart Auto Scale।\n🎨 Advanced Map Customization और Magic Edit से अनचाहे Boundary Points हटाएँ।\n📏 Custom Units, Sub-units और Unit Calculator।\n📍 Satellite Map Measure में Live Location और Accuracy Circle।\n🗺️ दो उँगलियों से Overlay Map घुमाएँ।\n📂 WhatsApp और File Manager से सीधे नक्शा खोलें।\n✨ Premium में सुधार और Bug Fixes!",
   "backend": {
     "base_url": "https://api.bhumeter.com"
   }
